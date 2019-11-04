@@ -1,3 +1,5 @@
+[Technik](./Ofentechnik.txt)
+
 ## Warum?
 
 Weil Brot aus der Tüte irgendwann sehr sehr fad schmeckt.
