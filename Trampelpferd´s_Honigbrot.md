@@ -1,14 +1,13 @@
 # Zutaten: 
 
-500 Gramm Dinkelmehl
-125 ml    Milch
-175 ml    Joghurt
-3   EL    Honig
-1/4 TL    Salz
-50  Gramm Butter
-1   EL    Orangenschalen (Optional)
-1   Pk.   Trockenhefe
-
+1. 500 Gramm Dinkelmehl
+1. 125 ml    Milch
+1. 175 ml    Joghurt
+1. 3   EL    Honig
+1. 1/4 TL    Salz
+1. 50  Gramm Butter
+1. 1   EL    Orangenschalen (Optional)
+1. 1   Pk.   Trockenhefe
 
 # Anleitung:
 

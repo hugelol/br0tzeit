@@ -1,8 +1,10 @@
 # Zutaten: 
-300 Gramm Roggenvollkornmehl
-300 ml    Wasser
 
-# Zeit: 
+1. 300 Gramm Roggenvollkornmehl
+1. 300 ml    Wasser
+
+# Zeit:
+ 
 5 Tage
 
 # Anleitung:

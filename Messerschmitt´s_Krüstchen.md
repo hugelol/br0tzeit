@@ -1,10 +1,11 @@
 # Zutaten:
-380  ml    kaltes Wasser
-220  Gramm Vollkorn Weizenmehl
-300  Gramm Dinkelmehl (Type 630)
-40   Gramm Hefe
-12   Gramm Salz
-1    Eigelb  (oder 2 gehäufte Esslöffel Maisstärke)
+
+1. 380  ml    kaltes Wasser
+1. 220  Gramm Vollkorn Weizenmehl
+1. 300  Gramm Dinkelmehl (Type 630)
+1. 40   Gramm Hefe
+1. 12   Gramm Salz
+1. 1    Eigelb  (oder 2 gehäufte Esslöffel Maisstärke)
 
 # Anleitung:
 
