@@ -1,16 +1,16 @@
-Zutaten:
+# Zutaten:
 
-2kg Kassler
-200 Gramm Roggenmehl
-200 Gramm Dinkelmehl
-600 Gramm Weizenmehl
-20  Gramm Salz
-2   TL    Zucker
-2   EL    Essig
-700 ml    lauwarmes Wasser
-1/2 Wfl.  Hefe
+1. 2kg Kassler
+1. 200 Gramm Roggenmehl
+1. 200 Gramm Dinkelmehl
+1. 600 Gramm Weizenmehl
+1. 20  Gramm Salz
+1. 2   TL    Zucker
+1. 2   EL    Essig
+1. 700 ml    lauwarmes Wasser
+1. 1/2 Wfl.  Hefe
 
-Zubereitung:
+# Anleitung:
 
 Man vermengt die Zutaten zu einem Teig und lässt diesen 1 Stunde gehen,
 danach ca. 1-2 cm dick ausrollen, den Kassler darin einpacken und für

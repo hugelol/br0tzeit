@@ -1,15 +1,15 @@
-Zutaten:
+# Zutaten:
 
-240 Gramm Mehl Typ 550
-180 ml    Wasser(lauwarm)
-50  ml    Olivenöl
-1   TL    Zucker
-3   Gramm Salz
-10  Gramm Hefe
-75  Gramm Parmesan
-3   TL    Oregano 
+1. 240 Gramm Mehl Typ 550
+1. 180 ml    Wasser(lauwarm)
+1. 50  ml    Olivenöl
+1. 1   TL    Zucker
+1. 3   Gramm Salz
+1. 10  Gramm Hefe
+1. 75  Gramm Parmesan
+1. 3   TL    Oregano 
 
-Anleitungen
+# Anleitung:
 Zuerst muss der Teig für das Subway Brot zubereitet werden. Dies geht am besten mit einer Küchenmaschine (Tipp: Bosch MUM 5).
 
 Zunächst wird die Hefe im lauwarmen Wasser aufgelöst. Das Mehl, das Hefe-Wassergemisch, 
