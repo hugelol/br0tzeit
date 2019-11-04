@@ -1,4 +1,4 @@
-[Technik](./Ofentechnik.txt)
+[Technik](../Ofentechnik.txt)
 
 ## Warum?
 
