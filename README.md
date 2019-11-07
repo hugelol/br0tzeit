@@ -16,7 +16,10 @@ Evtl. kommt noch ein bisschen Technik-blabla, da kann man schon einiges machen, 
 1. [Trampelpferd´s Honigbrot](/recips/Trampelpferd´s_Honigbrot.md)
 1. [Uhrenpapst´s Kümmerl](/recips/Uhrenpapst´s_Kümmerl.md)
 1. [elvis89´s Dinkelbrot](/recips/elvis89´s_Dinkelbrot.md)
+1. [Hugelols Roggensauerteigmischbrot mit Kümmel](/recips/Hugelols_Roggensauerteigmischbrot_mit_Kümmel.md)
+
 
 - [x] Rezepte in eigenen Ordner 
 - [] Mehr Rezepte hinzu
 - [] GitPages besser (evtl. mit Links auf die Rezepte)
+- [] Generator für die Readme.md und die Rezepte.
